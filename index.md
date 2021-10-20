@@ -1,10 +1,9 @@
-<html>
-  <head>
-    <title>My Thoughts</title>
-  </head>
-  <body>
-    <h1> An Engineer's Thoughts </h1>
-    <p>These are set of pages jotting down my thoughts, ideas and solutions or approaches to some of the problems i have observed or noticed.</p>
-    <h2> Coming Soon ! </h2>
-  </body>
-</html>
+layout: page
+title: My Thoughts
+
+ #An Engineer's Thoughts
+ 
+ These are set of pages jotting down my thoughts, ideas and solutions or approaches to some of the problems i have observed or noticed.
+ 
+ ##Coming Soon !
+
