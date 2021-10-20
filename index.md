@@ -1,9 +1,6 @@
-<html>
-<head>
-<title> My Thoughts </title>
- </head>
+---
+layout: default
+---
  <body>
   <h1>Coming Soon ! </h1>
  </body>
- </html>
-
