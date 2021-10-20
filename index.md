@@ -3,8 +3,8 @@
     <title>My Thoughts</title>
   </head>
   <body>
-    <h1> An Engineer's Thoughts </h1>
+   #An Engineer's Thoughts
     <p>These are set of pages jotting down my thoughts, ideas and solutions or approaches to some of the problems i have observed or noticed.</p>
-    <h2> Coming Soon ! </h2>
+    ##Coming Soon !
   </body>
 </html>
