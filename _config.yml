@@ -21,8 +21,6 @@
 title: An Engineer's Thoughts
 email: chaitanyaprem@gmail.com
 description: These are set of pages jotting down my thoughts, ideas and solutions or approaches to some of the problems i have observed or noticed.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  chaitanyaprem
 
