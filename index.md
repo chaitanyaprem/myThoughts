@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title></title>
+    <title>My Thoughts</title>
   </head>
   <body>
     <h1> An Engineer's Thoughts </h1>
