@@ -20,14 +20,15 @@
 
 title: An Engineer's Thoughts
 email: chaitanyaprem@gmail.com
-description: These are set of pages jotting down my thoughts, ideas and solutions or approaches to some of the problems i have observed or noticed.
+description: These are set of pages jotting down my thoughts, ideas and possible approaches to solve some of the problems i have observed day to day.
 twitter_username: 
 github_username:  chaitanyaprem
-
+markdown: kramdown
 # Build settings
 theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
+  - jekyll-relative-links
 
 # Exclude from processing.
 # The following items will not be processed, by default.
