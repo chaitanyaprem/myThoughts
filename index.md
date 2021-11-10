@@ -21,6 +21,6 @@ sidebar:
   It can also provide summaries and graphs of certain parameters over time which would be useful for doctors.
 
 ## Post Office
-- A [system](postoffice_order.md) One way to improve/reduce time a customer spends handing over a parcel/post.
+- A [system](postoffice_order.md) to improve/reduce time a customer spends handing over a parcel/post.
   It also reduces workload of the person sitting on the other side of the counter.
 
