@@ -10,7 +10,7 @@ sidebar:
 ### [Ideas](ideas.md)
 ### [Problems good to solve](problems.md)
 
-# Topics I have thought of and detailing
+# Topics I have thought of and their details
 
 ## City transportation
 - [Survey and feedback system](transport_system.md) for efficient utilization of buses and new routes. 
