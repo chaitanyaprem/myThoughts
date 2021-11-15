@@ -11,7 +11,7 @@ A system to improve/reduce time a customer spends handing over a parcel/post.
 It also reduces workload of the person sitting on the other side of the counter.
 
 ## Problem/Optimization
-If you have to send a parcel via public post office, you don't have an option of home pickup (which in itself is a good idea, but that solution is already thought of in private sector like delhivery). Hence, you have to rely on going to a nearby post office, which is crowded in general. One of the main reasons it takes time for the person sitting in the counter is: 
+If you have to send a parcel via public post office, you have to rely on going to a nearby post office, which is crowded in general. One of the main reasons it takes time for the person sitting in the counter is: 
 - The person needs to enter from and to address
 - Measure the weight and enter the same
 - Type of parcel
