@@ -25,6 +25,7 @@ The idea is to provide a user-interface where users can create a parcel submissi
 - Destination Address with PIN code
 - Type of parcel (Speed/Normal)
 - If possible make the payment ahead of time
+
 Finally, the person can just go to the post-office with some orderID/QR Code that is uniquely generated for this order and show it and drop it off. The post office person, can just validate the weight and whether payment has been made and accept the parcel. 
 This would simplfy the whole process for the customers as well as people working in the post office.
 
