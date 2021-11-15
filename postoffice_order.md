@@ -16,6 +16,7 @@ If you have to send a parcel via public post office, you have to rely on going t
 - Measure the weight and enter the same
 - Type of parcel
 - Then take money in cash only and return change
+
 All of the above steps lead to a lot of time in accepting a single parcel. If the person before you in the queue has n parcels, then this time gets compounded. 
 It would be nice if this whole process of sending parcel can be opimtized.
 
