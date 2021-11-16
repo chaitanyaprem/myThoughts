@@ -30,6 +30,9 @@ The idea is to provide a user-interface where users can create a parcel submissi
 Finally, the person can just go to the post-office with some orderID/QR Code that is uniquely generated for this order and show it and drop it off. The post office person, can just validate the weight and whether payment has been made and accept the parcel. 
 This would simplfy the whole process for the customers as well as people working in the post office.
 
+## Alternatives 
+One alternative approach could be to simplify the entering the parcel details by the post office staff. For example from and to address can be derived by using some form of unique id for the addressses.
+
 ## Details
 To be detailed :) 
 
