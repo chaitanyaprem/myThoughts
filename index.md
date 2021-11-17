@@ -11,6 +11,10 @@ I have tried to broadly categorize them into some buckets.
 
 ## Public sector related
 
+### Post Office Mail pre-booking
+- A [system](postoffice_order.md) to improve/reduce time a customer spends handing over a parcel/post.
+  It also reduces workload of the person sitting on the other side of the counter.
+  
 ### City transportation
 - [Survey and feedback system](transport_system.md) for efficient utilization of buses and new routes. 
 - Paperless ticket bus journey BMTC, use of smart card.
@@ -46,9 +50,8 @@ I have tried to broadly categorize them into some buckets.
 - Pods for everyone , they can accumulate and attach to a parent.Transport made easy, user can request for a pod which can come pickup. Traffic managed very well.
 
 
-## Post Office Mail pre-booking
-- A [system](postoffice_order.md) to improve/reduce time a customer spends handing over a parcel/post.
-  It also reduces workload of the person sitting on the other side of the counter.
+
+
 
 # Problems - which i haven't thought solutions of yet :) 
 [Problems good to solve](problems.md)
