@@ -53,5 +53,4 @@ I have tried to broadly categorize them into some buckets.
 
 
 
-# Problems - which i haven't thought solutions of yet :) 
-[Problems good to solve](problems.md)
+#### Problems(problems.md) - which i haven't thought solutions of yet :) 
