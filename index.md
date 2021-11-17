@@ -39,7 +39,6 @@ I have tried to broadly categorize them into some buckets.
 
 ## Entertainment
 - Pay as you watch TV service for all channels.
-- 
 
 ## Futuristic and abstract
 - Microscope add-on and an app to scan and fnd out chemical compositions of anything ( making it transparent) - Transparency , can be used to find out ingredients on groceries and medicines. Can be used to find out any adulteration of any product.
